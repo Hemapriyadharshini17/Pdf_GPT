@@ -27,7 +27,7 @@ MODEL_LIST = ["gpt-3.5-turbo", "gpt-4"]
 # MODEL_LIST.insert(0, "debug")
 
 st.set_page_config(page_title="TestrunzGPT", page_icon="📖", layout="wide")
-st.header("📖TestrunzGPT")
+st.header("📖PdfGPT")
 
 # Enable caching for expensive functions
 bootstrap_caching()
