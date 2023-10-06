@@ -26,7 +26,7 @@ MODEL_LIST = ["gpt-3.5-turbo", "gpt-4"]
 # Uncomment to enable debug mode
 # MODEL_LIST.insert(0, "debug")
 
-st.set_page_config(page_title="TestrunzGPT", page_icon="📖", layout="wide")
+st.set_page_config(page_title="PdfGPT", page_icon="📖", layout="wide")
 st.header("📖PdfGPT")
 
 # Enable caching for expensive functions
